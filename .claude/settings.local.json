@@ -9,7 +9,9 @@
       "mcp__notion__notion-create-view",
       "Bash(flutter --version)",
       "Bash(flutter pub *)",
-      "Bash(flutter analyze *)"
+      "Bash(flutter analyze *)",
+      "mcp__notion__notion-query-data-sources",
+      "mcp__notion__notion-search"
     ]
   }
 }
